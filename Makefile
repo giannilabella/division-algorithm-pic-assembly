@@ -1,7 +1,7 @@
-PROJECT_NAME = template
+PROJECT_NAME = division-algorithms
 PROCESSOR    = p16f877a # Required by disassembler
 
-SOURCE_FILE = template-p16f877a.asm
+SOURCE_FILE = division-by-repeated-subtraction.asm
 SOURCE_DIR = src/
 OUTPUT_DIR = out/
 
